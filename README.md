@@ -26,7 +26,7 @@
 * Undo/Redo for every operation and support for [non-linear undo](https://imgur.com/9I42fZK).
 * [More features &amp; tips](https://twitter.com/aseprite/status/1124442198651678720)
 
-## Issues
+## Issues!
 
 There is a list of
 [Known Issues](https://github.com/aseprite/aseprite/issues) (things
